@@ -1,0 +1,5 @@
+com\products\product\database\AddProducts.class
+com\products\product\database\Products.class
+com\products\product\database\Login.class
+com\products\product\database\Logout.class
+com\products\product\database\ProductsDAO.class
